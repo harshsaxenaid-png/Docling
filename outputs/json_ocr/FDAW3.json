@@ -1,0 +1,2652 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "FDAW3",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11969731901720005847,
+    "filename": "FDAW3.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 24.333333333333332,
+            "t": 775.3333333333334,
+            "r": 83.66666666666667,
+            "b": 768.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "6/11/26, 5:44 PM",
+      "text": "6/11/26, 5:44 PM"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 249.66666666666666,
+            "t": 775.3333333333334,
+            "r": 454.3333333333333,
+            "b": 768.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Revion Group Holdings, LLC -722596 -06/02/2026 | FDA",
+      "text": "Revion Group Holdings, LLC -722596 -06/02/2026 | FDA"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 572.3333333333334,
+            "t": 428.6666666666667,
+            "r": 578.6666666666666,
+            "b": 392.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "yoeqpes4",
+      "text": "yoeqpes4"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 261.6666666666667,
+            "t": 723.0,
+            "r": 351.6666666666667,
+            "b": 716.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "WARNING LETTER",
+      "text": "WARNING LETTER",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 205.0,
+            "t": 700.3333333333334,
+            "r": 408.3333333333333,
+            "b": 684.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Revlon Group Holdings, LLC",
+      "text": "Revlon Group Holdings, LLC",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 215.0,
+            "t": 673.3333333333334,
+            "r": 398.3333333333333,
+            "b": 664.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "MARCS-CMS 722596 \u2014 JUNE 02, 2026",
+      "text": "MARCS-CMS 722596 \u2014 JUNE 02, 2026"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.333333333333336,
+            "t": 635.6666666666666,
+            "r": 577.0,
+            "b": 627.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "@ More Warning Letters (/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters)",
+      "text": "@ More Warning Letters (/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters)"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.0,
+            "t": 578.3333333333334,
+            "r": 123.0,
+            "b": 569.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Delivery Method:",
+      "text": "Delivery Method:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 561.6666666666666,
+            "r": 83.33333333333333,
+            "b": 554.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "VIA UPS",
+      "text": "VIA UPS"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.0,
+            "t": 545.0,
+            "r": 103.33333333333333,
+            "b": 537.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Reference #:",
+      "text": "Reference #:"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.0,
+            "t": 528.6666666666667,
+            "r": 90.0,
+            "b": 521.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "320-26-89",
+      "text": "320-26-89"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.0,
+            "t": 511.6666666666667,
+            "r": 85.0,
+            "b": 504.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Product:",
+      "text": "Product:"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.0,
+            "t": 495.0,
+            "r": 71.66666666666667,
+            "b": 486.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Drugs",
+      "text": "Drugs"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.0,
+            "t": 450.0,
+            "r": 92.0,
+            "b": 441.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Recipient:",
+      "text": "Recipient:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.0,
+            "t": 433.3333333333333,
+            "r": 127.0,
+            "b": 426.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Mr. David Hamilton",
+      "text": "Mr. David Hamilton"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 416.3333333333333,
+            "r": 168.0,
+            "b": 407.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Vice President of Operations",
+      "text": "Vice President of Operations"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.333333333333336,
+            "t": 399.6666666666667,
+            "r": 168.33333333333334,
+            "b": 390.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Revlon Group Holdings, LLC",
+      "text": "Revlon Group Holdings, LLC"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.666666666666664,
+            "t": 382.3333333333333,
+            "r": 139.0,
+            "b": 375.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "1501 Williamsboro St.",
+      "text": "1501 Williamsboro St."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.0,
+            "t": 366.6666666666667,
+            "r": 77.0,
+            "b": 358.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 81.33333333333333,
+            "t": 366.6666666666667,
+            "r": 123.66666666666667,
+            "b": 359.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            8,
+            16
+          ]
+        }
+      ],
+      "orig": "Oxford, NC 27565",
+      "text": "Oxford, NC 27565"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.333333333333336,
+            "t": 351.0,
+            "r": 103.66666666666667,
+            "b": 344.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "United States",
+      "text": "United States"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.0,
+            "t": 324.6666666666667,
+            "r": 112.33333333333333,
+            "b": 315.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Issuing Office:",
+      "text": "Issuing Office:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.0,
+            "t": 308.0,
+            "r": 258.6666666666667,
+            "b": 298.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Center for Drug Evaluation and Research (CDER)",
+      "text": "Center for Drug Evaluation and Research (CDER)"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.333333333333336,
+            "t": 289.6666666666667,
+            "r": 103.66666666666667,
+            "b": 282.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "United States",
+      "text": "United States"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 205.66666666666663,
+            "r": 101.66666666666667,
+            "b": 197.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "June 2, 2026",
+      "text": "June 2, 2026"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 47.0,
+            "t": 181.33333333333337,
+            "r": 125.66666666666667,
+            "b": 174.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Dear Mr. Hamilton:",
+      "text": "Dear Mr. Hamilton:"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 156.0,
+            "r": 564.0,
+            "b": 84.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            480
+          ]
+        }
+      ],
+      "orig": "Your facility is registered with the United States Food and Drug Administration (FDA) as a manufacturer of over-thecounter (OTC) drug products. FDA has reviewed the records you submitted in response to our September 8, 2025 request for records and other information pursuant to section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) for your facility, Revlon \u2014 Oxford Facility, FE] 1021184, at 1501 Williamsboro St., Oxford, as well as subsequent correspondence.",
+      "text": "Your facility is registered with the United States Food and Drug Administration (FDA) as a manufacturer of over-thecounter (OTC) drug products. FDA has reviewed the records you submitted in response to our September 8, 2025 request for records and other information pursuant to section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) for your facility, Revlon \u2014 Oxford Facility, FE] 1021184, at 1501 Williamsboro St., Oxford, as well as subsequent correspondence."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 68.33333333333337,
+            "r": 541.3333333333334,
+            "b": 43.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            230
+          ]
+        }
+      ],
+      "orig": "This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations, parts 210 and 211 (21 CFR, parts 210 and 211).",
+      "text": "This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations, parts 210 and 211 (21 CFR, parts 210 and 211)."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 250.0,
+            "t": 231.0,
+            "r": 317.3333333333333,
+            "b": 222.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Warning Letter",
+      "text": "Warning Letter"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 320.3333333333333,
+            "t": 231.0,
+            "r": 363.3333333333333,
+            "b": 223.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "320-26-89",
+      "text": "320-26-89"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 24.333333333333332,
+            "t": 22.66666666666663,
+            "r": 535.6666666666666,
+            "b": 12.666666666666629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/revion-group-holdings-llc-722596-06022026",
+      "text": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/revion-group-holdings-llc-722596-06022026"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 578.6666666666666,
+            "t": 21.33333333333337,
+            "r": 588.6666666666666,
+            "b": 15.333333333333371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/5",
+      "text": "1/5"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 24.333333333333332,
+            "t": 775.3333333333334,
+            "r": 83.66666666666667,
+            "b": 768.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "6/11/26, 5:44 PM",
+      "text": "6/11/26, 5:44 PM"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 249.66666666666666,
+            "t": 775.3333333333334,
+            "r": 454.3333333333333,
+            "b": 768.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Revion Group Holdings, LLC -722596 -06/02/2026 | FDA",
+      "text": "Revion Group Holdings, LLC -722596 -06/02/2026 | FDA"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 759.6666666666666,
+            "r": 565.3333333333334,
+            "b": 719.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            343
+          ]
+        }
+      ],
+      "orig": "Because your methods, facilities, or controls for manufacturing, processing, packing, or holding of drugs as described in your response to our 704(a)(4) request do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 351(a)(2)(B)).",
+      "text": "Because your methods, facilities, or controls for manufacturing, processing, packing, or holding of drugs as described in your response to our 704(a)(4) request do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 351(a)(2)(B))."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 703.3333333333334,
+            "r": 541.3333333333334,
+            "b": 678.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "Following review of records and other information provided pursuant to section 704(a)(4) of the FD&C Act, significant violation were observed including, but not limited to, the following:",
+      "text": "Following review of records and other information provided pursuant to section 704(a)(4) of the FD&C Act, significant violation were observed including, but not limited to, the following:"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 662.6666666666666,
+            "r": 538.3333333333334,
+            "b": 638.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "1. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality (21 CFR 211.84(d)(1) and 21 CFR 211.84(d)(2)).",
+      "text": "1. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality (21 CFR 211.84(d)(1) and 21 CFR 211.84(d)(2)).",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 622.3333333333334,
+            "r": 563.3333333333334,
+            "b": 537.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            684
+          ]
+        }
+      ],
+      "orig": "Your firm manufactured (b)(4), an OTC (b)(4) drug product labeled to contain the active drug ingredient (b)(4). You currently manufacture (b)(4) OTC drug product labeled to contain the active drug ingredient (b)(4). These drug products listed above are labeled to contain the inactive ingredient talc. Both talc and asbestos are naturally occurring minerals that may be found in close proximity in the earth. Asbestos is a potential contaminant in talc and is a known human carcinogen when inhaled.*? Your (b)(4) drug product, (b)(4), is considered a higher-risk drug as it pertains to patient safety regarding asbestos contamination of talc due to the risk of inadvertent inhalation.",
+      "text": "Your firm manufactured (b)(4), an OTC (b)(4) drug product labeled to contain the active drug ingredient (b)(4). You currently manufacture (b)(4) OTC drug product labeled to contain the active drug ingredient (b)(4). These drug products listed above are labeled to contain the inactive ingredient talc. Both talc and asbestos are naturally occurring minerals that may be found in close proximity in the earth. Asbestos is a potential contaminant in talc and is a known human carcinogen when inhaled.*? Your (b)(4) drug product, (b)(4), is considered a higher-risk drug as it pertains to patient safety regarding asbestos contamination of talc due to the risk of inadvertent inhalation."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 519.0,
+            "r": 565.3333333333334,
+            "b": 385.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1084
+          ]
+        }
+      ],
+      "orig": "You have not demonstrated that you appropriately tested incoming talc drug components used in the manufacture of your (b)(4) drug products for identity, purity, strength, and quality. In response to our 704(a)(4) request, you originally indicated that you did perform testing for asbestos in talc before release for use in drug product manufacturing. In subsequent correspondence, the data you provided only clarified that your talc components were tested for asbestos by the supplier and not by you. Evidence was not provided that your firm conducts asbestos testing at your facility. You failed to provide records indicating that you established the reliability of your supplier's analyses through appropriate validation of the supplier's test results. Although 21 CFR 211.84(d)(2) provides for some reliance on a certificate of analysis (COA) from the supplier of the component, such reliance is permissible only if the drug product manufacturer establishes the reliability of the supplier's test results through appropriate validation of the test results at appropriate intervals.",
+      "text": "You have not demonstrated that you appropriately tested incoming talc drug components used in the manufacture of your (b)(4) drug products for identity, purity, strength, and quality. In response to our 704(a)(4) request, you originally indicated that you did perform testing for asbestos in talc before release for use in drug product manufacturing. In subsequent correspondence, the data you provided only clarified that your talc components were tested for asbestos by the supplier and not by you. Evidence was not provided that your firm conducts asbestos testing at your facility. You failed to provide records indicating that you established the reliability of your supplier's analyses through appropriate validation of the supplier's test results. Although 21 CFR 211.84(d)(2) provides for some reliance on a certificate of analysis (COA) from the supplier of the component, such reliance is permissible only if the drug product manufacturer establishes the reliability of the supplier's test results through appropriate validation of the test results at appropriate intervals."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 369.6666666666667,
+            "r": 565.3333333333334,
+            "b": 298.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            522
+          ]
+        }
+      ],
+      "orig": "Additionally, you provided records to demonstrate you had conducted identity testing pursuant to the applicable United States Pharmacopeia (USP) test to satisfy the requirements for identity testing in 211.84(d)(1) and (2), but the testing does not conform to the current USP testing method, in that it is incomplete (i.e., lacks identification B and C). Without adequate testing, you lack scientific evidence that the components conform to appropriate specifications prior to use in the manufacture of your drug products.",
+      "text": "Additionally, you provided records to demonstrate you had conducted identity testing pursuant to the applicable United States Pharmacopeia (USP) test to satisfy the requirements for identity testing in 211.84(d)(1) and (2), but the testing does not conform to the current USP testing method, in that it is incomplete (i.e., lacks identification B and C). Without adequate testing, you lack scientific evidence that the components conform to appropriate specifications prior to use in the manufacture of your drug products."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 282.6666666666667,
+            "r": 564.0,
+            "b": 226.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            448
+          ]
+        }
+      ],
+      "orig": "As a manufacturer, you have a responsibility to sample, test, and examine, as appropriate, drug components before use in production to ensure acceptable specifications for identity, strength, quality, and purity are met. Because you have not performed appropriate testing that detects asbestos in your talc components, among other things, you failed to assure the acceptability of these drug components for use in manufacture of your drug products.",
+      "text": "As a manufacturer, you have a responsibility to sample, test, and examine, as appropriate, drug components before use in production to ensure acceptable specifications for identity, strength, quality, and purity are met. Because you have not performed appropriate testing that detects asbestos in your talc components, among other things, you failed to assure the acceptability of these drug components for use in manufacture of your drug products."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 47.333333333333336,
+            "t": 210.66666666666663,
+            "r": 187.0,
+            "b": 201.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "In response to this letter, provide:",
+      "text": "In response to this letter, provide:"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 61.0,
+            "t": 185.66666666666663,
+            "r": 559.3333333333334,
+            "b": 131.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            380
+          ]
+        }
+      ],
+      "orig": "\u00a2 Identity, assay and impurity test results from testing retains for all lots of talc (drug component) used in the manufacture of your drug products. Alternatively, if a retain of a component lot is unavailable, perform retain sample testing of all implicated finished drug product batches for asbestos. Provide this information within 30 calendar days of the date of this letter.",
+      "text": "\u00a2 Identity, assay and impurity test results from testing retains for all lots of talc (drug component) used in the manufacture of your drug products. Alternatively, if a retain of a component lot is unavailable, perform retain sample testing of all implicated finished drug product batches for asbestos. Provide this information within 30 calendar days of the date of this letter.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.66666666666667,
+            "t": 118.33333333333337,
+            "r": 561.6666666666666,
+            "b": 47.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            547
+          ]
+        }
+      ],
+      "orig": "A description of how you will test each component lot for conformity with all appropriate written specifications for identity, purity, strength, and quality. If you intend to accept any results from your supplier's COA instead of testing each component lot for strength, quality, and purity, specify how you will establish the reliability of your supplier's results through initial validation as well as periodic revalidation. In addition, include a commitment to always conduci at least one specific identity test for each incoming component lot.",
+      "text": "A description of how you will test each component lot for conformity with all appropriate written specifications for identity, purity, strength, and quality. If you intend to accept any results from your supplier's COA instead of testing each component lot for strength, quality, and purity, specify how you will establish the reliability of your supplier's results through initial validation as well as periodic revalidation. In addition, include a commitment to always conduci at least one specific identity test for each incoming component lot.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 24.333333333333332,
+            "t": 22.66666666666663,
+            "r": 535.6666666666666,
+            "b": 12.666666666666629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/revion-group-holdings-llc-722596-06022026",
+      "text": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/revion-group-holdings-llc-722596-06022026"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 578.0,
+            "t": 21.33333333333337,
+            "r": 588.6666666666666,
+            "b": 15.333333333333371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/5",
+      "text": "2/5"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 24.333333333333332,
+            "t": 775.3333333333334,
+            "r": 83.66666666666667,
+            "b": 768.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "6/11/26, 5:44 PM",
+      "text": "6/11/26, 5:44 PM"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 249.66666666666666,
+            "t": 775.3333333333334,
+            "r": 454.3333333333333,
+            "b": 768.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Revlon Group Holdings, LLC -722596 -06/02/2026 | FDA",
+      "text": "Revlon Group Holdings, LLC -722596 -06/02/2026 | FDA"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 761.0,
+            "r": 557.3333333333334,
+            "b": 703.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            389
+          ]
+        }
+      ],
+      "orig": "\u00a2 A full risk assessment for drug products that are within expiry which contain any ingredient at risk for asbestos contamination. Take prompt and appropriate actions to determine the safety of all lots of the component(s) and any related drug product that could contain asbestos. Appropriate actions could include customer notifications and drug product recalls for any contaminated lots.",
+      "text": "\u00a2 A full risk assessment for drug products that are within expiry which contain any ingredient at risk for asbestos contamination. Take prompt and appropriate actions to determine the safety of all lots of the component(s) and any related drug product that could contain asbestos. Appropriate actions could include customer notifications and drug product recalls for any contaminated lots.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.66666666666667,
+            "t": 692.3333333333334,
+            "r": 551.3333333333334,
+            "b": 668.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "The chemical quality control specifications you use to evaluate each incoming lot of drug component to determine acceptability for use in manufacturing.",
+      "text": "The chemical quality control specifications you use to evaluate each incoming lot of drug component to determine acceptability for use in manufacturing.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.66666666666667,
+            "t": 657.0,
+            "r": 556.3333333333334,
+            "b": 617.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "A gap analysis for specifications for drug components (active and inactive) between your current specifications and test procedures against the USP, where applicable. Based on your gap analysis, provide a comprehensive plan for conformance of your drug component specifications and testing to USP standards, where applicable.",
+      "text": "A gap analysis for specifications for drug components (active and inactive) between your current specifications and test procedures against the USP, where applicable. Based on your gap analysis, provide a comprehensive plan for conformance of your drug component specifications and testing to USP standards, where applicable.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.66666666666667,
+            "t": 605.6666666666666,
+            "r": 549.6666666666666,
+            "b": 580.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "Asummary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your standard operating procedure that describes this COA validation program.",
+      "text": "Asummary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your standard operating procedure that describes this COA validation program.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 564.6666666666666,
+            "r": 562.3333333333334,
+            "b": 524.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "2. Your firm's quality control unit failed to exercise its responsibility to ensure drug products are manufactured in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).",
+      "text": "2. Your firm's quality control unit failed to exercise its responsibility to ensure drug products are manufactured in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 508.3333333333333,
+            "r": 566.3333333333334,
+            "b": 375.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1088
+          ]
+        }
+      ],
+      "orig": "Your quality unit (QU) did not effectively exercise its responsibility to ensure the acceptability of your drug components. For example, your QU did not ensure that your test procedures and specifications for talc are scientifically sound and appropriate (see 21 CFR 211.160(b)). The current USP talc monograph could be used to meet this requirement for talc; however, your specifications for talc components did not include testing for assay, and multiple impurities (e.g., limits of (b) (4)). Beyond the deficiencies in testing detailed above, your talc microbiological specifications for \"yeast and mold\" of (b) (4) cfu/g exceeds USP specification for total combined molds and yeasts of Not More Than (NMT) (b)(4) cfu/g for talc used in (b)(4) drug products. Your COA reports microbiological test results as \"CONFORM\" without including a quantitative value, which would not be sufficient for the QU to make an informed release decision or determine if the result meets the USP requirement. Your QU approved and accepted talc for use in drug manufacturing with deficient specifications.",
+      "text": "Your quality unit (QU) did not effectively exercise its responsibility to ensure the acceptability of your drug components. For example, your QU did not ensure that your test procedures and specifications for talc are scientifically sound and appropriate (see 21 CFR 211.160(b)). The current USP talc monograph could be used to meet this requirement for talc; however, your specifications for talc components did not include testing for assay, and multiple impurities (e.g., limits of (b) (4)). Beyond the deficiencies in testing detailed above, your talc microbiological specifications for \"yeast and mold\" of (b) (4) cfu/g exceeds USP specification for total combined molds and yeasts of Not More Than (NMT) (b)(4) cfu/g for talc used in (b)(4) drug products. Your COA reports microbiological test results as \"CONFORM\" without including a quantitative value, which would not be sufficient for the QU to make an informed release decision or determine if the result meets the USP requirement. Your QU approved and accepted talc for use in drug manufacturing with deficient specifications."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 359.0,
+            "r": 562.3333333333334,
+            "b": 288.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            558
+          ]
+        }
+      ],
+      "orig": "Your QU is responsible for fully exercising its authority and responsibilities, including responsibility for approving or rejecting all procedures or specifications impacting the identity, strength, quality, and purity of the drug product. Your firm's quality systems are inadequate. See FDA's guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations, for help implementing quality systems and risk management approaches to meet the requirements of CGMP. regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.",
+      "text": "Your QU is responsible for fully exercising its authority and responsibilities, including responsibility for approving or rejecting all procedures or specifications impacting the identity, strength, quality, and purity of the drug product. Your firm's quality systems are inadequate. See FDA's guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations, for help implementing quality systems and risk management approaches to meet the requirements of CGMP. regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 271.66666666666663,
+            "r": 539.0,
+            "b": 247.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "In response to this letter, provide a comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:",
+      "text": "In response to this letter, provide a comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 231.0,
+            "r": 427.0,
+            "b": 222.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "\u00a2 Adetermination of whether procedures used by your firm are robust and appropriate",
+      "text": "\u00a2 Adetermination of whether procedures used by your firm are robust and appropriate",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 210.66666666666663,
+            "r": 505.0,
+            "b": 201.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "\u00a2 Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices",
+      "text": "\u00a2 Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 190.33333333333337,
+            "r": 537.6666666666666,
+            "b": 165.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "\u00a2\u00ab Acomplete and final review of representative batches within expiry and their related information before the QU disposition decision",
+      "text": "\u00a2\u00ab Acomplete and final review of representative batches within expiry and their related information before the QU disposition decision",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 47.0,
+            "t": 149.66666666666663,
+            "r": 302.3333333333333,
+            "b": 140.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Practice of Releasing Drug Products Close to Expiration",
+      "text": "Practice of Releasing Drug Products Close to Expiration",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 125.66666666666663,
+            "r": 557.3333333333334,
+            "b": 69.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            424
+          ]
+        }
+      ],
+      "orig": "Based on a review of documents you provided, you released multiple lots of OTC drug products within a few months of expiry, including one released with only 1 month before the drug product expiry. Of note, FDA documented instances of drug products that you discontinued, and past your expiration date, for sale online well after they expired, which could be attributed to your practice of distributing drugs close to expiry.",
+      "text": "Based on a review of documents you provided, you released multiple lots of OTC drug products within a few months of expiry, including one released with only 1 month before the drug product expiry. Of note, FDA documented instances of drug products that you discontinued, and past your expiration date, for sale online well after they expired, which could be attributed to your practice of distributing drugs close to expiry."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 47.0,
+            "t": 53.0,
+            "r": 343.0,
+            "b": 43.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "Reformulation to No Longer Use Talc in High-Risk Dosage Forms",
+      "text": "Reformulation to No Longer Use Talc in High-Risk Dosage Forms",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 24.333333333333332,
+            "t": 22.66666666666663,
+            "r": 535.6666666666666,
+            "b": 12.666666666666629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/revion-group-holdings-llc-722596-06022026",
+      "text": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/revion-group-holdings-llc-722596-06022026"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 578.0,
+            "t": 21.33333333333337,
+            "r": 588.6666666666666,
+            "b": 15.333333333333371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3/5",
+      "text": "3/5"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 24.333333333333332,
+            "t": 775.3333333333334,
+            "r": 83.66666666666667,
+            "b": 768.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "6/11/26, 5:44 PM",
+      "text": "6/11/26, 5:44 PM"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 249.66666666666666,
+            "t": 775.3333333333334,
+            "r": 454.3333333333333,
+            "b": 768.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Revlon Group Holdings, LLC -722596 -06/02/2026 | FDA",
+      "text": "Revlon Group Holdings, LLC -722596 -06/02/2026 | FDA"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 759.6666666666666,
+            "r": 550.3333333333334,
+            "b": 721.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            272
+          ]
+        }
+      ],
+      "orig": "In your response to our additional request for records you indicated that you would be reformulating your drug products containing talc. In response to this letter provide an update on your reformulation efforts to move to an alternative not associated with risks of talc.",
+      "text": "In your response to our additional request for records you indicated that you would be reformulating your drug products containing talc. In response to this letter provide an update on your reformulation efforts to move to an alternative not associated with risks of talc."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.0,
+            "t": 703.3333333333334,
+            "r": 218.0,
+            "b": 694.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Quality Specifications Regarding Talc",
+      "text": "Quality Specifications Regarding Talc",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 678.0,
+            "r": 461.0,
+            "b": 562.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            692
+          ]
+        }
+      ],
+      "orig": "Talc is a USP article, whose specification can be found in the current USP talc monograph. As mentioned above, the specific test for asbestos is included in the talc monograph. Be advised that drugs including components, such as talc, that are recognized in the USP are generally required to meet the current applicable USP monograph under section 501(b) of the FD&C Act. FDA reviewed your specifications for talc components and they are incomplete when compared to the current USP specification. We note that the USP has recently revised its monograph for talc which includes updated technical requirements for asbestos testing in talc and is currently scheduled to be official in June 2026.",
+      "text": "Talc is a USP article, whose specification can be found in the current USP talc monograph. As mentioned above, the specific test for asbestos is included in the talc monograph. Be advised that drugs including components, such as talc, that are recognized in the USP are generally required to meet the current applicable USP monograph under section 501(b) of the FD&C Act. FDA reviewed your specifications for talc components and they are incomplete when compared to the current USP specification. We note that the USP has recently revised its monograph for talc which includes updated technical requirements for asbestos testing in talc and is currently scheduled to be official in June 2026."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.0,
+            "t": 528.6666666666667,
+            "r": 98.33333333333333,
+            "b": 521.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Conclusion",
+      "text": "Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 503.6666666666667,
+            "r": 549.3333333333334,
+            "b": 465.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.",
+      "text": "The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 447.6666666666667,
+            "r": 551.0,
+            "b": 407.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            293
+          ]
+        }
+      ],
+      "orig": "Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.",
+      "text": "Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 391.3333333333333,
+            "r": 559.6666666666666,
+            "b": 335.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            378
+          ]
+        }
+      ],
+      "orig": "Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may inspect to verify that you have completed corrective actions to address any violations.",
+      "text": "Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may inspect to verify that you have completed corrective actions to address any violations."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 319.3333333333333,
+            "r": 564.0,
+            "b": 248.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            590
+          ]
+        }
+      ],
+      "orig": "This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. If you have information that you believe demonstrates that your products are not in violation of the FD&C Act and FDA regulations, include that information for our consideration.",
+      "text": "This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. If you have information that you believe demonstrates that your products are not in violation of the FD&C Act and FDA regulations, include that information for our consideration."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 232.33333333333337,
+            "r": 551.3333333333334,
+            "b": 207.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 1021184 and ATTN: Nancy Espinal.",
+      "text": "Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 1021184 and ATTN: Nancy Espinal."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.0,
+            "t": 191.33333333333337,
+            "r": 87.0,
+            "b": 182.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Sincerely,",
+      "text": "Sincerely,"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 46.666666666666664,
+            "t": 175.66666666666663,
+            "r": 58.333333333333336,
+            "b": 168.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "IS/",
+      "text": "IS/"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.333333333333336,
+            "t": 150.66666666666663,
+            "r": 112.66666666666667,
+            "b": 143.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Francis Godwin",
+      "text": "Francis Godwin"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.0,
+            "t": 135.0,
+            "r": 80.33333333333333,
+            "b": 127.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Director",
+      "text": "Director"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.0,
+            "t": 119.33333333333337,
+            "r": 178.0,
+            "b": 110.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Office of Manufacturing Quality",
+      "text": "Office of Manufacturing Quality"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.0,
+            "t": 104.0,
+            "r": 135.0,
+            "b": 95.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Office of Compliance",
+      "text": "Office of Compliance"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.0,
+            "t": 88.33333333333337,
+            "r": 222.0,
+            "b": 79.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Center for Drug Evaluation and Research",
+      "text": "Center for Drug Evaluation and Research"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 24.333333333333332,
+            "t": 22.66666666666663,
+            "r": 535.6666666666666,
+            "b": 12.666666666666629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/revion-group-holdings-llc-722596-06022026",
+      "text": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/revion-group-holdings-llc-722596-06022026"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 577.6666666666666,
+            "t": 21.33333333333337,
+            "r": 588.6666666666666,
+            "b": 15.333333333333371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "4/5",
+      "text": "4/5"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

@@ -1,0 +1,148 @@
+## WARNING LETTER
+
+## Hubei Gedian Humanwell Pharmaceutical Co., Ltd.
+
+MARCS-CMS 725591 — JUNE 03, 2026
+
+@ More Warning Letters (/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters)
+
+## Delivery Method:
+
+VIA UPS
+
+Reference #:
+
+320-26-93
+
+Product:
+
+Drugs
+
+## Recipient:
+
+Dr. Hailin Chen
+
+General Manager
+
+Hubei Gedian Humanwell Pharmaceutical Co., Ltd.
+
+No. 25 Juxian Road
+
+Gedian Economic Development District
+
+Ezhou Shi Hubei Sheng, 436070
+
+China
+
+SM chenhalin@renfu.com.cn (mailto:chenhalin@renfu.com.cn)
+
+## Issuing Office:
+
+Center for Drug Evaluation and Research (CDER)
+
+United States
+
+June 3, 2026
+
+Dear Dr. Chen:
+
+The United States Food and Drug Administration (FDA) inspected your drug manufacturing facility, Hubei Gedian Humanwell Pharmaceutical Co., Ltd., FE] 3004117486, located at No. 25 Juxian Road, Gedian Economic Development District, Ezhou City, Hubei Province, China, from November 3 to 7, 2025.
+
+This warning letter summarizes significant deviations from Current Good Manufacturing Practice (CGMP) for active pharmaceutical ingredients (APIs).
+
+<!-- image -->
+
+Warning Letter
+
+320-26-93
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your APIs are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&amp;C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your November 28, 2025 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific deviations including, but not limited to, the following.
+
+## 1. Failure to clean equipment and utensils to prevent contamination or carry-over of a material that would alter the quality of the API beyond the official or other established specifications.
+
+Your firm manufactures (b)(4) for the U.S. market. During the inspection, our investigator observed numerous scratches and (b)(4) stains on the interior API-contact surfaces of your (b)(4) vessels, as well as (b)(4) markings on the lid and rim of the (b)(4) of your (b)(4) vessel. These markings and discolored stains indicate that the integrity of the API-contact surfaces is being compromised which can lead to contamination of your API with particulate matter (e.g., (b)(4) particles) or alter the quality of the API via chemical leachable reactions.
+
+In your response, you state that compatibility between the equipment product contact surface material of construction and the chemical process, specifically the (b)(4) and the (b)(4) process, is insufficient. You state that the (b)(4) chemicals used in the process weakens the (b)(4) on the (b)(4) surfaces which leads to (b)(4) manifested as (b)(4) stains/discoloration and scratches. You (b)(4) your (b)(4) and (b)(4) the interior walls and plan to perform preventive (b)(4) maintenance (b)(4). You (b)(4) the (b)(4) markings on the (b)(4) and lid and replaced the (b)(4) gasket sealing the (b)(4) lid.
+
+Your response is inadequate because you do not support the frequency of your preventive (b)(4) maintenance schedule with scientific rationale based on your processes' chemistry. Your response also did not evaluate the reactivity of all interior surfaces of the equipment train with your (b)(4) process. Furthermore, you rationalized that the risk to product quality risk is low based on results of release testing using a qualified method.
+
+Your equipment materials of construction are inadequate because your product-contact surfaces may alter the quality of the product in that they were additive, absorptive, or reactive. Inadequately maintained manufacturing equipment can lead to potential contamination that could compromise the quality and safety of your APIs.
+
+In response to this letter, provide:
+
+- Your corrective action and preventive action (CAPA) plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+- A retrospective, independent review of all batches within expiry that could have been affected by scratches and discoloration within the (b)(4) vessels introduced as a result of your manufacturing process, including an evaluation of retain samples for elements within your (b)(4) and/or impurities. Include a review of customer complaints for the last three years.
+- A review of all your manufacturing processes to determine whether there is reactivity with all respective productcontact surfaces in your equipment.
+- An evaluation of your process and equipment to determine whether changes will be implemented to remove the risk of foreign material introduced to APIs due to process design and inadequate product contact materials of A construction. Include a list of all product contact surfaces exposed to varying chemical reactions in your facility, apg!)
+
+<!-- image -->
+
+supporting information regarding (b)(4) resistance against typical conditions in the vessels. Also include a plan, including timeline, for changing product contact surfaces to appropriate (b)(4) materials of construction given the inherent nature of the chemical processes utilized.
+
+## 2. Failure of your quality unit to exercise its responsibility to ensure the API manufactured at your facility are in compliance with CGMP.
+
+Your quality unit (QU) was not exercising its basic responsibilities for oversight of the manufacture of your APIs. For example, your QU failed to ensure the following:
+
+- ¢ Buildings and facilities used in the manufacture of APIs have been properly maintained (e.g., no gaps around windows and doors).
+- e You did not evaluate the compatibility between the equipment product contact surface material of construction and the chemical processes used in the manufacture of APIs to ensure suitability for its intended use.
+
+In your response, you state that you revised the job responsibilities of the QU to increase the spot check frequency and to inspect the production floor equipment conditions. Your response is inadequate because the revised QU inspection duties checklist includes determining whether the equipment is "under normal working conditions." This statement is vague and does not specify or provide appropriate guidance to identify discoloration, scratches, markings, and production room structural issues.
+
+Significant findings in this letter demonstrate that your firm does not operate an effective quality system in accord with CGMP. In addition to the lack of effective management oversight of your production operations, we found your quality unit is not enabled to exercise proper authority and/or has insufficiently implemented its responsibilities. Executive management should immediately and comprehensively assess your company's global manufacturing operations to ensure that your systems, processes, and products conform to FDA requirements.
+
+In response to this letter, provide:
+
+- e An assessment of each drug product process to ensure suitability of equipment for its intended use and sufficiency of detectability in your monitoring and testing systems.
+- e« Acomprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+- o Adetermination of whether procedures used by your firm are robust and appropriate
+- o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+
+## API CGMP Guidance
+
+FDA considers the expectations outlined in International Conference on Harmonization (ICH) Q7 when determining whether APIs and intermediates are manufactured in conformance with CGMP. See FDA's guidance document Q7 Good Manufacturing Practice Guidance for Active Pharmaceutical Ingredients for guidance regarding CGMP for the manufacture of APIs at https://www.fda.gov/media/7 1518/download.
+
+## Conclusion
+
+The deviations cited in this letter are not intended to be an all-inclusive list of deviations that exist at your facility. You are responsible for investigating and determining the causes of any deviations and for preventing their recurrence or the occurrence of other deviations.
+
+<!-- image -->
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER's Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Correct any deviations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any deviations are completely addressed and we confirm your compliance with CGMP. We may reinspect to verify that you have completed corrective actions to any deviations.
+
+Failure to address any deviations may also result in the FDA refusing admission of articles manufactured at Hubei Gedian Humanwell Pharmaceutical Co., Ltd., FE] 3004117486, located at No. 25 Juxian Road, Gedian Economic Development District, Ezhou City, Hubei Province, into the United States under section 801(a)(3) of the FD&amp;C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&amp;C Act, 21 U.S.C. 351(a)(2)(B).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days'. Specify what you have done to address any deviations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3004117486 and ATTN: Barbara Wilimczyk-Macri.
+
+Sincerely,
+
+IS/
+
+Francis Godwin
+
+Director Office of Manufacturing Quality Office of Compliance Center for Evaluation and Research
+
+Drug
+
+Cc:
+
+Registered U.S. Agent
+
+Registrar Corp Email: drugs@registrarcorp.com
+
+1 Under program enhancements for the Generic Drug User Fee Amendments (GDUFA) reauthorization for fiscal years (FYs) 2023-2027, also known as the GDUFA III Commitment Letter, your facility may be eligible for a Post-Warning Letter Meeting to obtain preliminary feedback from FDA on the adequacy and completeness of your corrective action plans.
+
+a
+
+Top ()
+
+<!-- image -->
+
+<!-- image -->
