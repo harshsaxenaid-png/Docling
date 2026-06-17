@@ -1,0 +1,1516 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d3" for="node" attr.name="label" attr.type="string"/>
+<key id="d2" for="node" attr.name="text" attr.type="string"/>
+<key id="d1" for="node" attr.name="page" attr.type="long"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="body">
+  <data key="d0">document_root</data>
+</node>
+<node id="text_0">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">6/11/26, 5:42 PM</data>
+</node>
+<node id="text_1">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Hubei Gedian Humanwell Pharmaceutical Co., Ltd. -725591 -06/03/2026 | FDA</data>
+</node>
+<node id="text_2">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">yoeqpes4</data>
+</node>
+<node id="text_3">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">WARNING LETTER</data>
+</node>
+<node id="text_4">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Hubei Gedian Humanwell Pharmaceutical Co., Ltd.</data>
+</node>
+<node id="text_5">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">MARCS-CMS 725591 — JUNE 03, 2026</data>
+</node>
+<node id="text_6">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">@ More Warning Letters (/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters)</data>
+</node>
+<node id="text_7">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Delivery Method:</data>
+</node>
+<node id="text_8">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">VIA UPS</data>
+</node>
+<node id="text_9">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Reference #:</data>
+</node>
+<node id="text_10">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">320-26-93</data>
+</node>
+<node id="text_11">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Product:</data>
+</node>
+<node id="text_12">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Drugs</data>
+</node>
+<node id="text_13">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Recipient:</data>
+</node>
+<node id="text_14">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Dr. Hailin Chen</data>
+</node>
+<node id="text_15">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">General Manager</data>
+</node>
+<node id="text_16">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Hubei Gedian Humanwell Pharmaceutical Co., Ltd.</data>
+</node>
+<node id="text_17">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">No. 25 Juxian Road</data>
+</node>
+<node id="text_18">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Gedian Economic Development District</data>
+</node>
+<node id="text_19">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Ezhou Shi Hubei Sheng, 436070</data>
+</node>
+<node id="text_20">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">China</data>
+</node>
+<node id="text_21">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">SM chenhalin@renfu.com.cn (mailto:chenhalin@renfu.com.cn)</data>
+</node>
+<node id="text_22">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Issuing Office:</data>
+</node>
+<node id="text_23">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Center for Drug Evaluation and Research (CDER)</data>
+</node>
+<node id="text_24">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">United States</data>
+</node>
+<node id="text_25">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">June 3, 2026</data>
+</node>
+<node id="text_26">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Dear Dr. Chen:</data>
+</node>
+<node id="text_27">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">The United States Food and Drug Administration (FDA) inspected your drug manufacturing facility, Hubei Gedian Humanwell Pharmaceutical Co., Ltd., FE] 3004117486, located at No. 25 Juxian Road, Gedian </data>
+</node>
+<node id="text_28">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">This warning letter summarizes significant deviations from Current Good Manufacturing Practice (CGMP) for active pharmaceutical ingredients (APIs).</data>
+</node>
+<node id="text_29">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">@«</data>
+</node>
+<node id="text_30">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Tor 0)</data>
+</node>
+<node id="text_31">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">Warning Letter</data>
+</node>
+<node id="text_32">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">320-26-93</data>
+</node>
+<node id="text_33">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/hubei-gedian-humanwell-pharmaceutical-co-ltd-7...</data>
+</node>
+<node id="text_34">
+  <data key="d0">text</data>
+  <data key="d1">1</data>
+  <data key="d2">1/5</data>
+</node>
+<node id="text_35">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">6/11/26, 5:42 PM</data>
+</node>
+<node id="text_36">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">Hubei Gedian Humanwell Pharmaceutical Co., Ltd. -725591 -06/03/2026 | FDA</data>
+</node>
+<node id="text_37">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your APIs are adulterated within the meaning of section 501(a)(2)(B) of the Fed</data>
+</node>
+<node id="text_38">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">We reviewed your November 28, 2025 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.</data>
+</node>
+<node id="text_39">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">During our inspection, our investigator observed specific deviations including, but not limited to, the following.</data>
+</node>
+<node id="text_40">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">1. Failure to clean equipment and utensils to prevent contamination or carry-over of a material that would alter the quality of the API beyond the official or other established specifications.</data>
+</node>
+<node id="text_41">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">Your firm manufactures (b)(4) for the U.S. market. During the inspection, our investigator observed numerous scratches and (b)(4) stains on the interior API-contact surfaces of your (b)(4) vessels, as</data>
+</node>
+<node id="text_42">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">In your response, you state that compatibility between the equipment product contact surface material of construction and the chemical process, specifically the (b)(4) and the (b)(4) process, is insuf</data>
+</node>
+<node id="text_43">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">Your response is inadequate because you do not support the frequency of your preventive (b)(4) maintenance schedule with scientific rationale based on your processes' chemistry. Your response also did</data>
+</node>
+<node id="text_44">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">Your equipment materials of construction are inadequate because your product-contact surfaces may alter the quality of the product in that they were additive, absorptive, or reactive. Inadequately mai</data>
+</node>
+<node id="text_45">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">In response to this letter, provide:</data>
+</node>
+<node id="text_46">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">Your corrective action and preventive action (CAPA) plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt</data>
+</node>
+<node id="text_47">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">A retrospective, independent review of all batches within expiry that could have been affected by scratches and discoloration within the (b)(4) vessels introduced as a result of your manufacturing pro</data>
+</node>
+<node id="text_48">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">A review of all your manufacturing processes to determine whether there is reactivity with all respective productcontact surfaces in your equipment.</data>
+</node>
+<node id="text_49">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">An evaluation of your process and equipment to determine whether changes will be implemented to remove the risk of foreign material introduced to APIs due to process design and inadequate product cont</data>
+</node>
+<node id="text_50">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/hubei-gedian-humanwell-pharmaceutical-co-ltd-7...</data>
+</node>
+<node id="text_51">
+  <data key="d0">text</data>
+  <data key="d1">2</data>
+  <data key="d2">2/5</data>
+</node>
+<node id="text_52">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">6/11/26, 5:42 PM</data>
+</node>
+<node id="text_53">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">Hubei Gedian Humanwell Pharmaceutical Co., Ltd. -725591 -06/03/2026 | FDA</data>
+</node>
+<node id="text_54">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">supporting information regarding (b)(4) resistance against typical conditions in the vessels. Also include a plan, including timeline, for changing product contact surfaces to appropriate (b)(4) mater</data>
+</node>
+<node id="text_55">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">2. Failure of your quality unit to exercise its responsibility to ensure the API manufactured at your facility are in compliance with CGMP.</data>
+</node>
+<node id="text_56">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">Your quality unit (QU) was not exercising its basic responsibilities for oversight of the manufacture of your APIs. For example, your QU failed to ensure the following:</data>
+</node>
+<node id="text_57">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">¢ Buildings and facilities used in the manufacture of APIs have been properly maintained (e.g., no gaps around windows and doors).</data>
+</node>
+<node id="text_58">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">e You did not evaluate the compatibility between the equipment product contact surface material of construction and the chemical processes used in the manufacture of APIs to ensure suitability for its</data>
+</node>
+<node id="text_59">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">In your response, you state that you revised the job responsibilities of the QU to increase the spot check frequency and to inspect the production floor equipment conditions. Your response is inadequa</data>
+</node>
+<node id="text_60">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">Significant findings in this letter demonstrate that your firm does not operate an effective quality system in accord with CGMP. In addition to the lack of effective management oversight of your produ</data>
+</node>
+<node id="text_61">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">In response to this letter, provide:</data>
+</node>
+<node id="text_62">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">e An assessment of each drug product process to ensure suitability of equipment for its intended use and sufficiency of detectability in your monitoring and testing systems.</data>
+</node>
+<node id="text_63">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">e« Acomprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:</data>
+</node>
+<node id="text_64">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">o Adetermination of whether procedures used by your firm are robust and appropriate</data>
+</node>
+<node id="text_65">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices</data>
+</node>
+<node id="text_66">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">API CGMP Guidance</data>
+</node>
+<node id="text_67">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">FDA considers the expectations outlined in International Conference on Harmonization (ICH) Q7 when determining whether APIs and intermediates are manufactured in conformance with CGMP. See FDA's guida</data>
+</node>
+<node id="text_68">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">Conclusion</data>
+</node>
+<node id="text_69">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">The deviations cited in this letter are not intended to be an all-inclusive list of deviations that exist at your facility. You are responsible for investigating and determining the causes of any devi</data>
+</node>
+<node id="text_70">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">a</data>
+</node>
+<node id="text_71">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">Top</data>
+</node>
+<node id="text_72">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">()</data>
+</node>
+<node id="text_73">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/hubei-gedian-humanwell-pharmaceutical-co-ltd-7...</data>
+</node>
+<node id="text_74">
+  <data key="d0">text</data>
+  <data key="d1">3</data>
+  <data key="d2">3/5</data>
+</node>
+<node id="text_75">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">6/11/26, 5:42 PM</data>
+</node>
+<node id="text_76">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Hubei Gedian Humanwell Pharmaceutical Co., Ltd. -725591 -06/03/2026 | FDA</data>
+</node>
+<node id="text_77">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER's Drug Shortages Staff immediately, at drug</data>
+</node>
+<node id="text_78">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Correct any deviations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any deviations are completely addressed and we confirm your</data>
+</node>
+<node id="text_79">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Failure to address any deviations may also result in the FDA refusing admission of articles manufactured at Hubei Gedian Humanwell Pharmaceutical Co., Ltd., FE] 3004117486, located at No. 25 Juxian Ro</data>
+</node>
+<node id="text_80">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days'. Sp</data>
+</node>
+<node id="text_81">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3004117486 and ATTN: Barbara Wilimczyk-Macri.</data>
+</node>
+<node id="text_82">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Sincerely,</data>
+</node>
+<node id="text_83">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">IS/</data>
+</node>
+<node id="text_84">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Francis Godwin</data>
+</node>
+<node id="text_85">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Director Office of Manufacturing Quality Office of Compliance Center for Evaluation and Research</data>
+</node>
+<node id="text_86">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Drug</data>
+</node>
+<node id="text_87">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Cc:</data>
+</node>
+<node id="text_88">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Registered U.S. Agent</data>
+</node>
+<node id="text_89">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Registrar Corp Email: drugs@registrarcorp.com</data>
+</node>
+<node id="text_90">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">1 Under program enhancements for the Generic Drug User Fee Amendments (GDUFA) reauthorization for fiscal years (FYs) 2023-2027, also known as the GDUFA III Commitment Letter, your facility may be elig</data>
+</node>
+<node id="text_91">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">a</data>
+</node>
+<node id="text_92">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">Top ()</data>
+</node>
+<node id="text_93">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/hubei-gedian-humanwell-pharmaceutical-co-ltd-7...</data>
+</node>
+<node id="text_94">
+  <data key="d0">text</data>
+  <data key="d1">4</data>
+  <data key="d2">4/5</data>
+</node>
+<node id="text_95">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">6/11/26, 5:42 PM</data>
+</node>
+<node id="text_96">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">Hubei Gedian Humanwell Pharmaceutical Co., Ltd. -725591 -06/03/2026 | FDA</data>
+</node>
+<node id="text_97">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">Was this page helpful? * (required)</data>
+</node>
+<node id="text_98">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">Yes</data>
+</node>
+<node id="text_99">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">No</data>
+</node>
+<node id="text_100">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">Submit</data>
+</node>
+<node id="text_101">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">&amp;</data>
+</node>
+<node id="text_102">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">An</data>
+</node>
+<node id="text_103">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">official</data>
+</node>
+<node id="text_104">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">form</data>
+</node>
+<node id="text_105">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">of</data>
+</node>
+<node id="text_106">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">the</data>
+</node>
+<node id="text_107">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">United</data>
+</node>
+<node id="text_108">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">States</data>
+</node>
+<node id="text_109">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">government.</data>
+</node>
+<node id="text_110">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">Provided</data>
+</node>
+<node id="text_111">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">by</data>
+</node>
+<node id="text_112">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">Touchpoints</data>
+</node>
+<node id="text_113">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">a</data>
+</node>
+<node id="text_114">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">Top</data>
+</node>
+<node id="text_115">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">()</data>
+</node>
+<node id="text_116">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/hubei-gedian-humanwell-pharmaceutical-co-ltd-7...</data>
+</node>
+<node id="text_117">
+  <data key="d0">text</data>
+  <data key="d1">5</data>
+  <data key="d2">5/5</data>
+</node>
+<node id="group_0">
+  <data key="d0">group</data>
+  <data key="d3">key_value_area</data>
+</node>
+<node id="group_1">
+  <data key="d0">group</data>
+  <data key="d3">list</data>
+</node>
+<node id="group_2">
+  <data key="d0">group</data>
+  <data key="d3">list</data>
+</node>
+<node id="group_3">
+  <data key="d0">group</data>
+  <data key="d3">list</data>
+</node>
+<node id="group_4">
+  <data key="d0">group</data>
+  <data key="d3">form_area</data>
+</node>
+<node id="picture_0">
+  <data key="d0">picture</data>
+  <data key="d1">1</data>
+</node>
+<node id="picture_1">
+  <data key="d0">picture</data>
+  <data key="d1">2</data>
+</node>
+<node id="picture_2">
+  <data key="d0">picture</data>
+  <data key="d1">3</data>
+</node>
+<node id="picture_3">
+  <data key="d0">picture</data>
+  <data key="d1">5</data>
+</node>
+<node id="picture_4">
+  <data key="d0">picture</data>
+  <data key="d1">5</data>
+</node>
+<edge source="body" target="text_0">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_1">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_2">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_3">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_4">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_5">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_6">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_7">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_8">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_9">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_10">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_11">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_12">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_13">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_14">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_15">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_16">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_17">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_18">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_19">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_20">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_21">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_22">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_23">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_24">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_25">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_26">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_27">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_28">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_29">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_30">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_31">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_32">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_33">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_34">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_35">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_36">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_37">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_38">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_39">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_40">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_41">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_42">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_43">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_44">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_45">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_46">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_47">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_48">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_49">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_50">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_51">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_52">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_53">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_54">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_55">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_56">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_57">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_58">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_59">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_60">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_61">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_62">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_63">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_64">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_65">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_66">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_67">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_68">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_69">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_70">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_71">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_72">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_73">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_74">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_75">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_76">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_77">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_78">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_79">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_80">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_81">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_82">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_83">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_84">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_85">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_86">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_87">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_88">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_89">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_90">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_91">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_92">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_93">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_94">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_95">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_96">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_97">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_98">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_99">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_100">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_101">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_102">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_103">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_104">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_105">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_106">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_107">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_108">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_109">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_110">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_111">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_112">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_113">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_114">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_115">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_116">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="text_117">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="group_0">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="group_1">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="group_2">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="group_3">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="group_4">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="picture_0">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="picture_1">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="picture_2">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="picture_3">
+  <data key="d4">contains</data>
+</edge>
+<edge source="body" target="picture_4">
+  <data key="d4">contains</data>
+</edge>
+<edge source="text_0" target="text_1">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_1" target="text_2">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_2" target="text_3">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_3" target="text_4">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_4" target="text_5">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_5" target="text_6">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_6" target="text_7">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_7" target="text_8">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_8" target="text_9">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_9" target="text_10">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_10" target="text_11">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_11" target="text_12">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_12" target="text_13">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_13" target="text_14">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_14" target="text_15">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_15" target="text_16">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_16" target="text_17">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_17" target="text_18">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_18" target="text_19">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_19" target="text_20">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_20" target="text_21">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_21" target="text_22">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_22" target="text_23">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_23" target="text_24">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_24" target="text_25">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_25" target="text_26">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_26" target="text_27">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_27" target="text_28">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_28" target="text_29">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_29" target="text_30">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_30" target="text_31">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_31" target="text_32">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_32" target="text_33">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_33" target="text_34">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_34" target="text_35">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_35" target="text_36">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_36" target="text_37">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_37" target="text_38">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_38" target="text_39">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_39" target="text_40">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_40" target="text_41">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_41" target="text_42">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_42" target="text_43">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_43" target="text_44">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_44" target="text_45">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_45" target="text_46">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_46" target="text_47">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_47" target="text_48">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_48" target="text_49">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_49" target="text_50">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_50" target="text_51">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_51" target="text_52">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_52" target="text_53">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_53" target="text_54">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_54" target="text_55">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_55" target="text_56">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_56" target="text_57">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_57" target="text_58">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_58" target="text_59">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_59" target="text_60">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_60" target="text_61">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_61" target="text_62">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_62" target="text_63">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_63" target="text_64">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_64" target="text_65">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_65" target="text_66">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_66" target="text_67">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_67" target="text_68">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_68" target="text_69">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_69" target="text_70">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_70" target="text_71">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_71" target="text_72">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_72" target="text_73">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_73" target="text_74">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_74" target="text_75">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_75" target="text_76">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_76" target="text_77">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_77" target="text_78">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_78" target="text_79">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_79" target="text_80">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_80" target="text_81">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_81" target="text_82">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_82" target="text_83">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_83" target="text_84">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_84" target="text_85">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_85" target="text_86">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_86" target="text_87">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_87" target="text_88">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_88" target="text_89">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_89" target="text_90">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_90" target="text_91">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_91" target="text_92">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_92" target="text_93">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_93" target="text_94">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_94" target="text_95">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_95" target="text_96">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_96" target="text_97">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_97" target="text_98">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_98" target="text_99">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_99" target="text_100">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_100" target="text_101">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_101" target="text_102">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_102" target="text_103">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_103" target="text_104">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_104" target="text_105">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_105" target="text_106">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_106" target="text_107">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_107" target="text_108">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_108" target="text_109">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_109" target="text_110">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_110" target="text_111">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_111" target="text_112">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_112" target="text_113">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_113" target="text_114">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_114" target="text_115">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_115" target="text_116">
+  <data key="d4">next</data>
+</edge>
+<edge source="text_116" target="text_117">
+  <data key="d4">next</data>
+</edge>
+<edge source="group_0" target="text_31">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_0" target="text_32">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_1" target="text_46">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_1" target="text_47">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_1" target="text_48">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_1" target="text_49">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_2" target="text_57">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_2" target="text_58">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_3" target="text_62">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_3" target="text_63">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_3" target="text_64">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_3" target="text_65">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_4" target="text_82">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_4" target="text_83">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_4" target="text_84">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_4" target="text_85">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_4" target="text_86">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_4" target="text_87">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_4" target="text_88">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_4" target="text_89">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_4" target="text_90">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_4" target="text_91">
+  <data key="d4">contains</data>
+</edge>
+<edge source="group_4" target="text_92">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_0" target="text_29">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_0" target="text_30">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_2" target="text_70">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_2" target="text_71">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_2" target="text_72">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_97">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_98">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_99">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_100">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_101">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_102">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_103">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_104">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_105">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_106">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_107">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_108">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_109">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_110">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_111">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_3" target="text_112">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_4" target="text_113">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_4" target="text_114">
+  <data key="d4">contains</data>
+</edge>
+<edge source="picture_4" target="text_115">
+  <data key="d4">contains</data>
+</edge>
+</graph></graphml>
