@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Large generated outputs (optional)
+# outputs/
+
+# PDFs (optional, if you don't want to upload them)
+# documents/*.pdf

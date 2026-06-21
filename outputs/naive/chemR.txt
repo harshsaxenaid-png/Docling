@@ -1,0 +1,194 @@
+CENTER FOR DRUG EVALUATION AND
+RESEARCH
+APPLICATION NUMBER:
+214985Orig1s000
+PRODUCT QUALITY REVIEW(S)
+
+Valerie Digitally signed by Valerie Amspacher
+Amspacher Date: 9/09/2021 12:37:37PM
+GUID: 5714dbd10078d2d3d9b60a0ceb819fc3
+111 Page(s) have been Withheld in Full as B4 (CCI/TS) immediately following this
+page
+Reference ID: 4854289
+
+Special handling about the NA NA
+supplied product (e.g.,
+protect from light,
+refrigerate). If there is a
+statement to “Dispense in
+original container,” provide
+reason why (e.g. to protect
+from light or moisture, to
+maintain stability, etc.)
+If the product contains a NA NA
+desiccant, ensure the size
+and shape differ from the
+dosage form and desiccant
+has a warning such as “Do
+not eat.”
+Storage conditions. Where Store at 20°C to 25°C Adequate
+applicable, use USP (68°F to 77°F),
+storage range rather than excursions permitted
+storage at a single between 15°C and
+temperature. 30°C (59°F and 86°F)
+[see USP Controlled
+Room Temperature].
+Latex: If product does not NA NA
+contain latex and
+manufacturing of product
+and container did not
+include use of natural
+rubber latex or synthetic
+derivatives of natural rubber
+latex, state: “Not made with
+natural rubber latex. Avoid
+statements such as “latex-
+free.”
+Include information about Not present Inadequate
+child-resistant packaging Revise to include child-
+resistant packaging
+statement.
+1.2.5 Other Sections of Labeling
+There may be other sections of labeling that contain product-quality related
+information. For example, there are specific required/recommended warnings
+for certain inactive ingredients [e.g., aspartame, aluminum in large and small
+volume parenterals, sulfites, FD&C Yellow Number 5 (tartrazine), and benzyl
+alcohol]. Please notify the prescription drug division if the product contains any
+of these inactive ingredients.
+OPQ-XOPQ-TEM-0001v06 Page 7 Effective Date: February 1, 2019
+Reference ID: 4854289
+
+Grace Digitally signed by Grace Chiou
+Chiou Date: 7/19/2021 01:17:06PM
+GUID: 5c5df155002b1863abe42e6c00c2780f
+Julia Digitally signed by Julia Pinto
+Pinto Date: 7/19/2021 01:34:53PM
+GUID: 5050dbcb00001294a888a4bdc20a3a58
+32 Page(s) have been Withheld in Full as B4 (CCI/TS) immediately following this page
+Reference ID: 4854289
+
+BIOPHARMACEUTICS
+Application No: NDA 214985; 505(b)(1)
+Drug Product Name/Strengths: QUVIVIQTM (daridorexant) Tablets; 25 mg, 50 mg
+Route of Administration/Dosage Form: Oral/ Immediate-Release Tablets
+Indication: Treatment of adult patients with insomnia (b) (4)
+Applicant Name: Idorsia Pharmaceuticals Ltd
+Date of Submission: 01/08/2021 (Original)
+Primary Reviewer: Kaushalkumar Dave, Ph.D.
+Secondary Reviewer: Ta-Chen Wu, Ph.D.
+Review Recommendation: Adequate
+EXECUTIVE SUMMARY
+Submission: The proposed drug product, QUVIVIQTM (daridorexant) Tablets (referred by the
+Applicant as ACT-541468), 25 mg and 50 mg, submitted under 505(b)(1), is an immediate-
+release dosage form for oral administration indicated for the treatment of insomnia. The clinical
+development program comprises eighteen clinical pharmacology studies and five clinical
+studies in subjects with insomnia. The evidence of the efficacy and safety of daridorexant in
+the treatment of patients with insomnia is primarily derived from two Phase 3 studies (ID-
+078A301 and ID-078A302), one ongoing Phase 3 extension study (ID-078A303) and two
+Phase 2 dose-finding studies (AC-078A201 and AC‑078A202). The Applicant studied both
+strengths, 25 mg and 50 mg, of the proposed drug product in clinical studies and therefore a
+biowaiver request is neither submitted nor required. Per the labeling, the recommended dosage
+of QUVIVIQTM is 50 mg once per night, taken orally within 30 minutes before going to bed.
+Dissolution Method: The provided information/data show that daridorexant is poorly soluble
+per the BCS criteria and exhibits pH-dependent solubility. It has a solubility of 0.188 at pH 1.2
+but is insoluble at pH 4.5 and 6.8. The Applicant proposed a dissolution method [900 mL of
+pH 1.2 medium using USP Apparatus 2 at 75 rpm] for both strengths of the proposed drug
+product. The Applicant adequately justified the selection of the proposed dissolution method,
+including various dissolution testing conditions (apparatus, rotation speed and dissolution
+medium pH). In addition, the Applicant adequately demonstrated discriminating ability of the
+dissolution method towards change in critical material attribute (drug substance particle size),
+critical formulation variable (change in composition) and critical process variable ( (b) (4)
+. Based on the provided information/data, the proposed dissolution method is
+deemed adequate for QC testing of the proposed drug product.
+Dissolution Acceptance Criterion: Based on the provided full profile dissolution data from
+the clinical and registration batches, the Applicant’s proposed dissolution acceptance criteria
+of ‘NLT (b) % (Q) at 15 minutes’ for the 25 mg strength tablets, and ‘NLT (b) % (Q) at 30
+(4) (4)
+minutes’ for the 50 mg strength tablets are deemed acceptable for QC testing of the proposed
+drug product with the proposed dissolution method at batch release and during stability testing.
+1
+Reference ID: 4854289
+
+BCS Designation - None
+Solubility
+The Applicant studied the solubility of daridorexant across the physiological pH range (pH
+1.2~6.8). The results of the experimental solubility study, summarized in Table 1, indicate that
+daridorexant is a poorly soluble drug substance, per the BCS criteria, and exhibits pH
+dependent solubility. It has a solubility of 0.188 at pH 1.2 but is insoluble at pH 4.5 and 6.8.
+Table 2: Aqueous solubility of daridorexant
+The Applicant observed that at pH 4.5 and 6.8 daridorexant hydrochloride stayed on top of the
+media due to its poor wettability. This explains the very low amount of drug substance
+dissolved under these conditions compared to acidic conditions.
+Permeability
+The Applicant stated in the submission that daridorexant is a BCS Class 2 drug. However, no
+information of permeability of the drug substance was provided for this application.
+It is important to note that no BCS designation request has been submitted by the Applicant
+and no designation has been determined by the FDA for daridorexant.
+Dissolution Method Development
+The Applicant’s proposed dissolution method and acceptance criterion are as follow:
+Table 3: Applicant’s proposed dissolution method and acceptance criterion
+Apparatus USP Apparatus 2 (paddle)
+Paddle Speed 75 rpm
+Volume 900 mL
+Medium pH 1.2 Medium (NaCl/HCl)
+Temperature 37.0 ± 0.5°C
+(b)
+Acceptance Criterion 25 mg Tablets: Q = % at 15 minutes
+(4)
+50 mg Tablets: Q = % at 30 minutes
+4
+2 Page(s) have been Withheld in Full as B4 (CCI/TS) immediately following this page
+Reference ID: 4854289
+
+Figure 9. Overview of formulations used in clinical studies
+The Applicant studied comparative PK and PD profiles of the soft gelatin capsules and hard
+gelatin capsules under the clinical study in AC-078-101. In an E-Mail communication (dated
+08/31/2021) with the Clinical Pharmacology Reviewer, Dr. Praveen Balimane, it was
+confirmed that results from studies conducted with the prior developmental formulations will
+not be used in support of the labeling. However, it is noted that only the 25 mg strength hard
+gelatin capsule was used in Phase 1 and Phase 2 (dose-ranging) studies, thus it is necessary to
+bridge hard gelatin capsule to the proposed film-coated tablet of both strengths.
+The Applicant provided comparative dissolution profiles between the hard gelatin capsules and
+film-coated tablets of 25 mg strength, using the proposed dissolution method. The provided
+data show similar dissolution profiles between these formulations (Figure 10). Together with
+comparative dissolution profiles of 25 and 50 mg registration batches as presented in Figure 8,
+and the rapid absorption and similar t values, this Reviewer concludes that the overall
+max
+bridging between hard gelatin capsule used for dose-ranging and the proposed film-coated
+tablets of both strengths is adequate.
+13
+Reference ID: 4854289
+
+Figure 10. Dissolution profile of daridorexant film-coated tablets and hard gelatin capsules at
+25 mg dose strength in buffer pH 1.2, USP apparatus II, 75 rpm (n = 12)
+Biowaiver Request
+The Applicant included both strengths of the proposed product in clinical studies. Biowaiver
+request is not needed or submitted.
+14
+Reference ID: 4854289
+
+Kaushalkumar Digitally signed by Kaushalkumar Dave
+Dave Date: 9/01/2021 07:20:46PM
+GUID: 5575db68006e2262805f2e6449c54250
+Ta-Chen Digitally signed by Ta-Chen Wu
+Wu Date: 9/01/2021 07:22:25PM
+GUID: 508da6df000269e151ff37cd8f4e13a1
+Reference ID: 4854289
+
+Valerie Digitally signed by Valerie Amspacher
+Amspacher Date: 9/09/2021 12:45:07PM
+GUID: 5714dbd10078d2d3d9b60a0ceb819fc3
+Reference ID: 4854289
+
+Signature Page 1 of 1
+--------------------------------------------------------------------------------------------
+This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+--------------------------------------------------------------------------------------------
+/s/
+------------------------------------------------------------
+VALERIE R AMSPACHER
+09/09/2021 12:53:26 PM
+Reference ID: 4854289
+
